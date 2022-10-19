@@ -1,14 +1,12 @@
 #include "main.h"
 
 /**
- * main - prints _putchar
- *
- * Description: prints _putchar
- *
- * Return: 0 (Success)
+ * main - _putchar
+ * is written by wumi
+ * Return: 0
  */
 
-int main(void)7
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
@@ -22,3 +20,5 @@ int main(void)7
 
 	return (0);
 }
+
+
